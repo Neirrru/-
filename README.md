@@ -1,7 +1,14 @@
 print ("Введите имя: ")
+
 n = str(input())
-print ("
+
+print ("Введите фамилию: ")
+
 f = str(input())
-print ("
+
+print ("Введите номер группы: ")
+
 g = srt(input())
+
 print (n, " ", f, " ", "(", g, ")")
+
